@@ -2,6 +2,15 @@
 
 個人的に kyoko-np.net が大嫌いなので、そういうのが好きなタワケがリンクを貼って自分が誤ってアクセスしたときに注意してくれるようなもの。
 
+## スクショ
+
+![screenshot01](screenshot/image01.png)
+
+↓
+
+![screenshot02](screenshot/image02.png)
+
+
 ## 適用方法
 
 Greasemonkey が分かる人なら分かる。
