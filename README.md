@@ -1,4 +1,4 @@
-# warn_kyoko.js: kyoko-np.net を見ないようにするための Greasemonkey Script
+# warn_kyoko: kyoko-np.net を見ないようにするための Greasemonkey Script
 
 個人的に kyoko-np.net が大嫌いなので、そういうのが好きなタワケがリンクを貼って自分が誤ってアクセスしたときに注意してくれるようなもの。
 
